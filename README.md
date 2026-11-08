@@ -1,19 +1,19 @@
 # Bangladesh Team Leaders
 
-Team leaders representing Bangladesh at IOAA, IOAA Junior and GeCAA. This archive records event roles.
+Bangladesh's team leaders and observers at IOAA, IOAA Junior and GeCAA, newest events first.
 
-| Event | Location / format | Team leaders | Notes |
-| --- | --- | --- | --- |
-| IOAA 2026 | Hanoi, Vietnam 🇻🇳 | Fahim Rajit Hossain Shwadhin; Arnab Chowdhury | [IOAA International Board](https://ioaastrophysics.org/about-ioaa/organisation-and-governance), 2026 country representatives. |
-| IOAA Jr 2026 | Ubon Ratchathani, Thailand 🇹🇭 | Labib Bin Azad | Recorded in BDOAA's supplied delegation information; additional leader names to be confirmed. |
-| IOAA 2025 | Mumbai, India 🇮🇳 | Fahim Rajit Hossain Shwadhin; Arnab Chowdhury | [IOAA International Board](https://ioaastrophysics.org/about-ioaa/organisation-and-governance), 2025 country representatives. |
-| IOAA 2024 | Vassouras, Rio de Janeiro, Brazil 🇧🇷 | Fahim Rajit Hossain Shwadhin; second leader to be confirmed | Sources disagree: the [IOAA Board roster](https://ioaastrophysics.org/about-ioaa/organisation-and-governance) names Ahmad Abdullah Rifat; a [contemporary report](https://online.thedailystar.net/tech-startup/news/bangladesh-wins-bronze-international-astronomy-and-astrophysics-olympiad-3690826) names Md Mahmudunnobe. |
-| IOAA Jr 2024 | Kathmandu, Nepal 🇳🇵 | To be confirmed | Delegation leader record pending. |
-| IOAA 2023 | Chorzów, Poland 🇵🇱 | Fahim Rajit Hossain Shwadhin | [BAUET delegation report](https://bauet.ac.bd/eee/a-team-from-bangladesh-won-2-silver-and-1-bronze-medal-at-the-16th-international-olympiad-on-astronomy-and-astrophysics-ioaa-2023-lead-bya-student-of-bauet-eee/). |
-| IOAA 2022 | Kutaisi, Georgia 🇬🇪 | Fahim Rajit Hossain Shwadhin; Serat Mahmud Saad | BDOAA's supplied roster; Serat's role is corroborated by his [personal account](https://seratsaad.github.io/beyond/olympiad.html). |
-| IOAA 2021 | Bogotá, Colombia 🇨🇴; online participation | Fahim Rajit Hossain Shwadhin; Md Mahmudunnobe | Arnab Chowdhury served as an observer, as recorded in BDOAA's supplied roster. |
-| GeCAA 2020 | Online; organised by Estonia 🇪🇪 | Fahim Rajit Hossain Shwadhin; Md Mahmudunnobe; Arnab Chowdhury | Leadership recorded in [BDOAA's home README](https://github.com/BDOAA/BDOAA). |
-| IOAA 2019 | Keszthely, Hungary 🇭🇺 | Fahim Rajit Hossain Shwadhin | Additional leader names to be confirmed. |
-| IOAA 2018 | Beijing, China 🇨🇳 | Fahim Rajit Hossain Shwadhin | BDOAA's home README records two leaders; the second name remains to be confirmed. |
+| Event | Location | Team leaders |
+| --- | --- | --- |
+| IOAA 2026 | Hanoi, Vietnam :vietnam: | Fahim Rajit Hossain Shwadhin; Arnab Chowdhury |
+| IOAA Jr 2026 | Ubon Ratchathani, Thailand :thailand: | Labib Bin Azad; Ahnaf Islam Rakin |
+| IOAA 2025 | Mumbai, India :india: | Fahim Rajit Hossain Shwadhin; Arnab Chowdhury |
+| IOAA 2024 | Vassouras, Rio de Janeiro, Brazil :brazil: | Fahim Rajit Hossain Shwadhin; Md Mahmudunnobe |
+| IOAA Jr 2024 | Kathmandu, Nepal :nepal: | Fahim Rajit Hossain Shwadhin |
+| IOAA 2023 | Chorzów, Poland :poland: | Fahim Rajit Hossain Shwadhin |
+| IOAA 2022 | Kutaisi, Georgia :georgia: | Fahim Rajit Hossain Shwadhin; Serat Mahmud Saad |
+| IOAA 2021 | Bogotá, Colombia :colombia: — online participation | Fahim Rajit Hossain Shwadhin; Md Mahmudunnobe; Arnab Chowdhury (Observer) |
+| GeCAA 2020 | Online; organised by Estonia :estonia: | Fahim Rajit Hossain Shwadhin; Md Mahmudunnobe; Arnab Chowdhury |
+| IOAA 2019 | Keszthely, Hungary :hungary: | Fahim Rajit Hossain Shwadhin |
+| IOAA 2018 | Beijing, China :cn: | Fahim Rajit Hossain Shwadhin |
 
 [Student participants](https://github.com/BDOAA/IOAA-Participants) · [Academic team](https://github.com/BDOAA/Academic-Team) · [Back to BDOAA](https://github.com/BDOAA)
