@@ -1,6 +1,6 @@
 # Bangladesh Team Leaders
 
-Team leaders representing Bangladesh at IOAA, IOAA Junior and GeCAA, newest events first. This archive records event roles; it is separate from the [academic team](https://github.com/BDOAA/Academic-Team). Missing names and conflicting records are marked for confirmation.
+Team leaders representing Bangladesh at IOAA, IOAA Junior and GeCAA. This archive records event roles.
 
 | Event | Location / format | Team leaders | Notes |
 | --- | --- | --- | --- |
